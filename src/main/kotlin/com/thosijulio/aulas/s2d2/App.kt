@@ -1,4 +1,4 @@
-package com.thosijulio.aula2
+package com.thosijulio.aulas.s2d2
 
 /* Exercícios
 Exercício 1:

@@ -1,4 +1,4 @@
-package com.thosijulio.aula1
+package com.thosijulio.aulas.s2d1
 
 public fun main() {
     print("Aula 1")
