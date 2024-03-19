@@ -1,4 +1,4 @@
-package com.thosijulio.aulas.s2d2
+package thosijulio.aulas.s2d2
 
 /* Exercícios
 Exercício 1:
@@ -23,8 +23,8 @@ mostre a média aritmética e a mensagem de acordo com as regras a seguir:
 */
 
 fun exercicio1(salary: Float) {
-    val INCREASE = 0.25f;
-    println("Salário anterior: R$$salary. Novo Salário: R$${salary * INCREASE + salary}");
+    val increase = 0.25f;
+    println("Salário anterior: R$$salary. Novo Salário: R$${salary * increase + salary}");
 }
 
 fun exercicio2(alturaDegrau: Float, alturaDesejada: Float) {
